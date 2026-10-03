@@ -20,7 +20,8 @@ tmp-icons/
 # docs/images and is regenerated with `bun scripts/screenshots.ts`.
 
 # Local-only working files. None of these belong to anyone who clones the repo,
-# and a stray `git add .` would publish them.
+# and a stray `git add .` would publish them. docs/agents/ may contain old
+# instructions; use tracked AGENTS.md and docs/releasing.md instead.
 docs/agents/
 /ORCHESTRATION.md
 /UPSTREAMING-PLAN.md
